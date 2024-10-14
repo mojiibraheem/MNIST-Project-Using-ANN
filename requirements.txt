@@ -1,0 +1,16 @@
+# Requirements for the project
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Numerical computations
+numpy>=1.21.0
+
+# Data visualization
+matplotlib>=3.4.0
+
+# PyTorch for deep learning
+torch>=1.10.0
+
+# Torchmetrics for evaluation metrics
+torchmetrics>=0.7.0
