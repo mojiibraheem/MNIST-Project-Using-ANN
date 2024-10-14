@@ -21,7 +21,7 @@ Make sure you’ve got Python and the necessary libraries installed. Here’s ho
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-repo/mnist-classifier.git
+   git clone https://github.com/mojiibraheem/MNIST-Project-Using-ANN.git
    ```
 2. Install the dependencies:
 
